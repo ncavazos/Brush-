@@ -1,4 +1,4 @@
-## Brushillator
+## Brush
 # Messed up glsl oscillators for Hydra
 
 ![](capture.png)
